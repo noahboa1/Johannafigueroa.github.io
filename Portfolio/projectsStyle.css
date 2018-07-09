@@ -1,0 +1,14 @@
+#nav1{
+    text-align: right;
+    font-family: 'Alegreya SC', serif;
+}
+body{
+    background-color: paleturquoise;
+}
+a:hover{
+    color: mediumpurple;
+}
+p{
+    text-align: center;
+    font-family: 'Alegreya SC', serif;
+}
