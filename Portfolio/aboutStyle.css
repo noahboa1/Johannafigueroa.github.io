@@ -1,16 +1,28 @@
 #picture{
-    float:right;
-    width: 400px;
+    float:left;
+    width:400px;
     height: 400px;
+    padding-left: 5em;
 }
 #p1{
-    float:left;
-    width: 50%;
+    float:right;
+    width: 50%; 
     font-size: 20px;
-    padding: 5em;
     border-color: lightcoral;
+    font-family: "Average";
+    line-height: 1.5; 
+    padding-right: 5em;
 }
 body{
     background-color: paleturquoise
 }
-#
+#nav{
+    text-align: right;
+    font-family: 'Alegreya SC', serif;
+}
+#h1{
+    text-align: center;
+}
+a:hover{
+    color: mediumpurple;
+}
