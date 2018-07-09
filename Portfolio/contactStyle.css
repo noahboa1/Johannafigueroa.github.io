@@ -1,3 +1,30 @@
 body{
     background-color: paleturquoise;
 }
+
+#nav{
+    text-align: right;
+    font-family: 'Alegreya SC', serif;
+}
+a:hover{
+    color: darkslateblue
+}
+#olTitle{
+    text-align:left;
+    padding-top: 15em;
+    font-size: 20px;
+    font-family: 'Simonetta', cursive;
+}
+
+#GoogleForm{
+    float: right; 
+}
+#image{
+    float:left;
+}
+#o1{
+    font-family: 'Simonetta', cursive;
+}
+#ol2{
+    font-family: 'Simonetta', cursive;
+}
