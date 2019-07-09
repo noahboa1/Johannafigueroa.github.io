@@ -1,7 +1,7 @@
 function setup()
 {  
    createCanvas(800, 400);
-   background('black');
+   background('https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Kermit_the_Frog.jpg/220px-Kermit_the_Frog.jpg');
    noStroke();
 }
 
